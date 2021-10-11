@@ -1,0 +1,10 @@
+learn:
+  boot:
+    quoteApiUrl: https://quoters.apps.pcfone.io/api/random
+server:
+    port : 9091
+
+logging:
+  level:
+    com.genil: DEBUG
+
